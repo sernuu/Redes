@@ -7,6 +7,7 @@ https://www.ubisoft.com/es-es/game/assassins-creed/assassins-creed-3-remastered
 
 ![frame](https://github.com/sernuu/Redes/assets/156670370/d5bdf24d-7daa-43a8-babb-ad1dc8d080e6)
 
+--- 
 | Videojuego | Precio | Precio segunda mano |
 |-- |--|--|
 | God of war Ragnarok | 79,99€ | 58,12€ |
